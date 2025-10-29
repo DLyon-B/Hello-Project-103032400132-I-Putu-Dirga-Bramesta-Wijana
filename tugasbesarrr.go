@@ -6,6 +6,7 @@ import (
 )
 
 const NMAX = 100
+// Komentar tambahan untuk percobaan commit kedua
 
 type BahanMakanan struct {
 	Nama        string
